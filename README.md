@@ -1,4 +1,4 @@
-#Python Practice
+# Python Practice
 This repository contains my python practice programs and beginner-level projects .
 ## First ATM Project
 My first python project is a simple ATM program.
